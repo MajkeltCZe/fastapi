@@ -5,7 +5,7 @@ Získávání dat ze stránky:  https://svetserialu.to/zoznam-serialov
 - získává prvních 35 seriálu
 --------------------------------
 
-potřebné příkazy ke spuštění:
+potřebné příkazy:
 pip install -r requirments.txt 
  uvicorn main:app --reload
 ------------------------------
